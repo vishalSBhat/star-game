@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/star-game/static/css/main.0a3fb2f7.chunk.css",
-    "main.js": "/star-game/static/js/main.38d737b7.chunk.js",
-    "main.js.map": "/star-game/static/js/main.38d737b7.chunk.js.map",
+    "main.js": "/star-game/static/js/main.c8148b78.chunk.js",
+    "main.js.map": "/star-game/static/js/main.c8148b78.chunk.js.map",
     "runtime-main.js": "/star-game/static/js/runtime-main.64a11a88.js",
     "runtime-main.js.map": "/star-game/static/js/runtime-main.64a11a88.js.map",
-    "static/js/2.1ad80e2a.chunk.js": "/star-game/static/js/2.1ad80e2a.chunk.js",
-    "static/js/2.1ad80e2a.chunk.js.map": "/star-game/static/js/2.1ad80e2a.chunk.js.map",
+    "static/js/2.0690816e.chunk.js": "/star-game/static/js/2.0690816e.chunk.js",
+    "static/js/2.0690816e.chunk.js.map": "/star-game/static/js/2.0690816e.chunk.js.map",
     "index.html": "/star-game/index.html",
-    "precache-manifest.4a7d6f89f2101ba93bd32d64f32b7ea5.js": "/star-game/precache-manifest.4a7d6f89f2101ba93bd32d64f32b7ea5.js",
+    "precache-manifest.f31d722c9998806b5a348214f8d4281a.js": "/star-game/precache-manifest.f31d722c9998806b5a348214f8d4281a.js",
     "service-worker.js": "/star-game/service-worker.js",
     "static/css/main.0a3fb2f7.chunk.css.map": "/star-game/static/css/main.0a3fb2f7.chunk.css.map",
-    "static/js/2.1ad80e2a.chunk.js.LICENSE.txt": "/star-game/static/js/2.1ad80e2a.chunk.js.LICENSE.txt",
+    "static/js/2.0690816e.chunk.js.LICENSE.txt": "/star-game/static/js/2.0690816e.chunk.js.LICENSE.txt",
     "static/media/star.png": "/star-game/static/media/star.45dd5470.png"
   },
   "entrypoints": [
     "static/js/runtime-main.64a11a88.js",
-    "static/js/2.1ad80e2a.chunk.js",
+    "static/js/2.0690816e.chunk.js",
     "static/css/main.0a3fb2f7.chunk.css",
-    "static/js/main.38d737b7.chunk.js"
+    "static/js/main.c8148b78.chunk.js"
   ]
 }
