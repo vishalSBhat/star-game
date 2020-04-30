@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "27eccac858e3021aee02f87d2aeda55f",
+    "revision": "6d9a3e707565a025a542b83e8d9035b9",
     "url": "/star-game/index.html"
   },
   {
-    "revision": "100659c34b7486b64ea7",
+    "revision": "9c7071c968154ccc25c5",
     "url": "/star-game/static/css/main.0a3fb2f7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/star-game/static/js/2.0690816e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "100659c34b7486b64ea7",
-    "url": "/star-game/static/js/main.951e9c10.chunk.js"
+    "revision": "9c7071c968154ccc25c5",
+    "url": "/star-game/static/js/main.81348b6f.chunk.js"
   },
   {
     "revision": "e9d73905950a3c432037",
